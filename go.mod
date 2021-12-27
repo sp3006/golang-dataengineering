@@ -1,3 +1,3 @@
-module golang-dataengineering
+module github.com/sp3006/golang-dataengineering
 
-go 1.15
+go 1.17
